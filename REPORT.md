@@ -264,7 +264,7 @@
 
 
 
-!\[삼성전자 종가 추세](images/01\_price\_trend.png)
+!\[삼성전자 종가 추세](images/close_trend.png)
 
 
 
@@ -284,7 +284,7 @@
 
 
 
-!\[삼성전자 이동평균선](images/02\_moving\_average.png)
+!\[삼성전자 이동평균선](images/moving_average.png)
 
 
 
@@ -308,7 +308,7 @@
 
 
 
-!\[삼성전자 월별 수익률](images/03\_monthly\_return.png)
+!\[삼성전자 월별 수익률](images/monthly_return.png)
 
 
 

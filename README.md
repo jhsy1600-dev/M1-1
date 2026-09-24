@@ -109,15 +109,15 @@ python analysis.py
 
 ### 1. 삼성전자 종가 추세
 
-![삼성전자 종가 추세](images/01_price_trend.png)
+![삼성전자 종가 추세](./images/close_trend.png)
 
 ### 2. 이동평균선 분석
 
-![삼성전자 이동평균선](images/02_moving_average.png)
+![삼성전자 이동평균선](./images/moving_average.png)
 
 ### 3. 월별 수익률
 
-![삼성전자 월별 수익률](images/03_monthly_return.png)
+![삼성전자 월별 수익률](./images/monthly_return.png)
 ---
 
 ## 8. 주요 분석 내용
